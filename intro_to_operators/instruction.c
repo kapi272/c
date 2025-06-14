@@ -4,6 +4,7 @@
 int main() {
     // Declaration instruction
     int a, b, sum;
+    
     /* int a, b, c = 1; // This is also valid, but c is not used in this example,
                           we cannot use and declare it in the same line */
 
