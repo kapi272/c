@@ -1,7 +1,9 @@
 /*
+
 functions are two types
 i) Libray functions
 ii) User defined functions
+
 */
 
 // Execution start from the main function

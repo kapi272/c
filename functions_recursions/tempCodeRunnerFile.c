@@ -1,1 +1,0 @@
-// calculate power is using inbuilt function
