@@ -7,8 +7,6 @@ int main(){
     printf("Enter the base prise\n");
     scanf(" %d", &x);
     cal(x);
-
-
 }
 
 int cal(float a){
