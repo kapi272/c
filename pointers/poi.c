@@ -13,6 +13,7 @@ int main(){
     printf("Address of age: %p\n", &age);
     printf("Value pointed by pointer: %d\n", *pointer);
     printf("Address stored in pointer: %p\n", pointer);
+    printf("Address of pointer %p\n", &pointer);
     
     return 0;
 }
