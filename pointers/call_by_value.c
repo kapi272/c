@@ -8,7 +8,7 @@ int number; // golbel decleration of varibels so that it can acessed in user def
 
 int main(){
 
-    printf("Enter the number :");
+    printf("Enter the number : ");
     scanf("%d", &number);
 
     sqer(number);
@@ -16,6 +16,7 @@ int main(){
 
 }
 
+//this function will not affect the value of number
 void sqer(int x){
     x = x * x;
     printf("Squear of %d : %d\n", number, x);
