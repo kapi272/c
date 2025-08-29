@@ -11,6 +11,7 @@ int main(){
 }
 
 //structure of fgets
+//==================//
 //char *fgets(char *str, int n, FILE *stream);
 //str: pointer to the array where the string will be stored
 //n: maximum number of characters to read (including null terminator)
