@@ -1,5 +1,8 @@
 //a collection of values of diffrent data types
 
+//structures are stored in contiguous memory locations
+
+
 //Syntax
 
 /*
