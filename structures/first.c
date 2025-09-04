@@ -2,6 +2,8 @@
 
 //structures are stored in contiguous memory locations
 
+//Structures save us from creating too many varibels
+
 
 //Syntax
 
